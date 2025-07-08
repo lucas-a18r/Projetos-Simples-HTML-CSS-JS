@@ -1,1 +1,1 @@
-Alguns projetos base de HTML, CSS & JSS! # Projetos-Simples-HTML-CSS-JS
+Alguns projetos de base com HTML, CSS & JSS! # Projetos-Simples-HTML-CSS-JS
