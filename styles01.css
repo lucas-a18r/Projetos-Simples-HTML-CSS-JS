@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FDD282;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3,h4, p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    border: 5px;
+    border-style: solid;
+    border-color: #A0AA60;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    background-color: #58692E;
+    padding: 0px;
+    text-align: center;
+    color: rgb(5, 5, 5);
+}
+
+footer {
+    background-color: #58692E;
+    color: #000;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
